@@ -236,4 +236,4 @@ This repository serves as the official landing page for Celtx. The software is d
 **Get the most recent version of Celtx today!**
 
 ---
-**Last updated:** 2026-10-09 01:47:01 UTC
+**Last updated:** 2026-10-09 08:34:53 UTC
